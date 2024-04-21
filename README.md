@@ -1,0 +1,1 @@
+This repository contains custom implementations of fundamental data structures using Java. The project focuses on creating MyArrayList and MyLinkedList , MyStack, MyQueue and MyMinHeap, providing insights into their inner workings and practical applications.
